@@ -1,6 +1,6 @@
 ### 教程文档
 
-![](pyecharts入门教程.ipynb)
+pyecharts入门教程.ipynb
 
 ### 参考资料
 
